@@ -364,7 +364,7 @@ PythonやSDL2をインストールするために必要です。もうインス�
 
 Homebrewは以下からインストールできます。
 
-[https://brew.sh/index_ja](https://brew.sh/index_ja)
+[https://brew.sh/](https://brew.sh/)
 
 ```bash
 #git
